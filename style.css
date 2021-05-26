@@ -1,0 +1,62 @@
+#background1 {
+    background-color: #e4c5c0;
+    width: 100%;
+    height: 550px;
+    position: relative;
+}
+#maintext{
+    top: 250px;
+    left: 360px;
+    font-size: 60px;
+    color:white;
+    position: absolute;
+}
+#textlogo{
+    color: white;
+    top: 70px;
+    left: 140px;
+    position: absolute;
+    font-size: 20px;
+}
+#subtext{
+    color: white;
+    left: 500px;
+    top: 360px;
+    position: absolute;
+    font-size: 25px;
+}
+
+#st{
+    color: white;
+    top: 70px;
+    position: absolute;
+    font-size: 20px;
+    right: 495px;
+    text-decoration: underline;
+}
+#am{
+    color:#1bbc9d;
+    top: 70px;
+    position: absolute;
+    font-size: 20px;
+    right: 360px;
+}
+#wrk{
+    color: white;
+    top: 70px;
+    position: absolute;
+    font-size: 20px;
+    right: 260px;
+}
+#con{
+    color: white;
+    top: 70px;
+    position: absolute;
+    font-size: 20px;
+    right: 140px;
+}
+
+#bttn{
+    position: absolute;
+    top:500px;
+}
